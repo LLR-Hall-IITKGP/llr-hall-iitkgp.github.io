@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d4f5886f.chunk.css",
-    "main.js": "/static/js/main.701afae7.chunk.js",
-    "main.js.map": "/static/js/main.701afae7.chunk.js.map",
+    "main.css": "/static/css/main.451c4b5e.chunk.css",
+    "main.js": "/static/js/main.da212fbc.chunk.js",
+    "main.js.map": "/static/js/main.da212fbc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.980f7255.js",
     "runtime-main.js.map": "/static/js/runtime-main.980f7255.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
-    "static/js/2.42dc8181.chunk.js": "/static/js/2.42dc8181.chunk.js",
-    "static/js/2.42dc8181.chunk.js.map": "/static/js/2.42dc8181.chunk.js.map",
+    "static/js/2.1d5f15aa.chunk.js": "/static/js/2.1d5f15aa.chunk.js",
+    "static/js/2.1d5f15aa.chunk.js.map": "/static/js/2.1d5f15aa.chunk.js.map",
     "static/js/3.d0464cea.chunk.js": "/static/js/3.d0464cea.chunk.js",
     "static/js/3.d0464cea.chunk.js.map": "/static/js/3.d0464cea.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
-    "static/css/main.d4f5886f.chunk.css.map": "/static/css/main.d4f5886f.chunk.css.map",
-    "static/js/2.42dc8181.chunk.js.LICENSE.txt": "/static/js/2.42dc8181.chunk.js.LICENSE.txt",
+    "static/css/main.451c4b5e.chunk.css.map": "/static/css/main.451c4b5e.chunk.css.map",
+    "static/js/2.1d5f15aa.chunk.js.LICENSE.txt": "/static/js/2.1d5f15aa.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/static/media/1.2c878f23.jpg",
     "static/media/1.JPG": "/static/media/1.c5314448.JPG",
     "static/media/10.jpg": "/static/media/10.cd8afc4c.jpg",
@@ -187,7 +187,6 @@
     "static/media/cover.JPG": "/static/media/cover.ba805954.JPG",
     "static/media/header-image.a467781c.jpg": "/static/media/header-image.a467781c.jpg",
     "static/media/hp1920.ae8c7952.jpg": "/static/media/hp1920.ae8c7952.jpg",
-    "static/media/kaushik.f6ad79a6.jpg": "/static/media/kaushik.f6ad79a6.jpg",
     "static/media/lala.jpg": "/static/media/lala.1b47388b.jpg",
     "static/media/library1920.7b5785c6.jpg": "/static/media/library1920.7b5785c6.jpg",
     "static/media/mess1920.98bdadab.jpg": "/static/media/mess1920.98bdadab.jpg",
@@ -205,8 +204,8 @@
   "entrypoints": [
     "static/js/runtime-main.980f7255.js",
     "static/css/2.19627560.chunk.css",
-    "static/js/2.42dc8181.chunk.js",
-    "static/css/main.d4f5886f.chunk.css",
-    "static/js/main.701afae7.chunk.js"
+    "static/js/2.1d5f15aa.chunk.js",
+    "static/css/main.451c4b5e.chunk.css",
+    "static/js/main.da212fbc.chunk.js"
   ]
 }
