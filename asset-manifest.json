@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d4f5886f.chunk.css",
-    "main.js": "/static/js/main.c101b5be.chunk.js",
-    "main.js.map": "/static/js/main.c101b5be.chunk.js.map",
+    "main.js": "/static/js/main.5cb0f0f4.chunk.js",
+    "main.js.map": "/static/js/main.5cb0f0f4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.191d86e8.js",
     "runtime-main.js.map": "/static/js/runtime-main.191d86e8.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -246,7 +246,7 @@
     "static/media/9.jpg": "/static/media/9.e47ef82f.jpg",
     "static/media/Aditya Agrawal.73be6d5f.jpg": "/static/media/Aditya Agrawal.73be6d5f.jpg",
     "static/media/Aditya Verma.bc531990.jpg": "/static/media/Aditya Verma.bc531990.jpg",
-    "static/media/Akash Tripathi.b94b0da4.jpg": "/static/media/Akash Tripathi.b94b0da4.jpg",
+    "static/media/Akash Tripathi.e434774c.jpg": "/static/media/Akash Tripathi.e434774c.jpg",
     "static/media/Akshat Sharma.92e10eb8.jpg": "/static/media/Akshat Sharma.92e10eb8.jpg",
     "static/media/Alumni1920.b9bf73f0.jpg": "/static/media/Alumni1920.b9bf73f0.jpg",
     "static/media/Amgoth Jithendra Kumar Naik.7ed72f56.jpg": "/static/media/Amgoth Jithendra Kumar Naik.7ed72f56.jpg",
@@ -347,6 +347,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.1156f4a0.chunk.js",
     "static/css/main.d4f5886f.chunk.css",
-    "static/js/main.c101b5be.chunk.js"
+    "static/js/main.5cb0f0f4.chunk.js"
   ]
 }
